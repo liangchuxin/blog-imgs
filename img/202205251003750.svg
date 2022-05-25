@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="242px" height="72px" viewBox="0 0 242 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 2</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2">
+            <rect id="矩形" x="0" y="0" width="242" height="72"></rect>
+            <g id="编组" transform="translate(3.000000, 9.000000)">
+                <g id="her-journey-2" fill="#1D1C1C" font-family="MeltsScriptRough-SanscriptOnefreedemo, Melts Script Rough" font-size="41" font-style="italic" font-weight="normal">
+                    <text id="Her-Journey">
+                        <tspan x="0" y="38">Her Journey</tspan>
+                    </text>
+                </g>
+                <path d="M235.72,38.44 C236.626667,38.44 237.4,38.12 238.04,37.48 C238.68,36.84 239,36.0666667 239,35.16 C239,34.2533333 238.68,33.48 238.04,32.84 C237.4,32.2 236.626667,31.88 235.72,31.88 C234.813333,31.88 234.04,32.1933333 233.4,32.82 C232.76,33.4466667 232.44,34.2266667 232.44,35.16 C232.44,36.0666667 232.76,36.84 233.4,37.48 C234.04,38.12 234.813333,38.44 235.72,38.44 Z" id="." fill="#FEC415" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
